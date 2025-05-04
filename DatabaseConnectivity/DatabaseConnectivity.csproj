@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connect_And_Retrieve_Data_To_SQL_Server.cs" />
+    <Compile Include="Insert_Add_Data_To_SQL_Server.cs" />
     <Compile Include="Parameters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
