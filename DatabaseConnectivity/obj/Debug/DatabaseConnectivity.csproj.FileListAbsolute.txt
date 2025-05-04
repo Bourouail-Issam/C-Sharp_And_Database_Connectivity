@@ -1,0 +1,7 @@
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe.config
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.pdb
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.AssemblyReference.cache
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.CoreCompileInputs.cache
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.exe
+B:\Programming Advice\GitHub\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb
